@@ -142,7 +142,79 @@ io.on('connection', function(socket) {
         image: '/images/ecs.png',
         status: 'none',
         onlineCount: 0
-      }
+      },
+      {
+        id: 'test_chatroom_1',
+        name: 'Test Chatroom 1',
+        preview: 'Test chatroom only for testing',
+        image: '/images/aws.jpg',
+        status: 'none',
+        onlineCount: 0
+      },
+      {
+        id: 'test_chatroom_2',
+        name: 'Test Chatroom 2',
+        preview: 'Test chatroom only for testing',
+        image: '/images/aws.jpg',
+        status: 'none',
+        onlineCount: 0
+      },
+      {
+        id: 'test_chatroom_3',
+        name: 'Test Chatroom 3',
+        preview: 'Test chatroom only for testing',
+        image: '/images/aws.jpg',
+        status: 'none',
+        onlineCount: 0
+      },
+      {
+        id: 'test_chatroom_4',
+        name: 'Test Chatroom 4',
+        preview: 'Test chatroom only for testing',
+        image: '/images/aws.jpg',
+        status: 'none',
+        onlineCount: 0
+      },
+      {
+        id: 'test_chatroom_5',
+        name: 'Test Chatroom 5',
+        preview: 'Test chatroom only for testing',
+        image: '/images/aws.jpg',
+        status: 'none',
+        onlineCount: 0
+      },
+      {
+        id: 'test_chatroom_6',
+        name: 'Test Chatroom 6',
+        preview: 'Test chatroom only for testing',
+        image: '/images/aws.jpg',
+        status: 'none',
+        onlineCount: 0
+      },
+      {
+        id: 'test_chatroom_7',
+        name: 'Test Chatroom 7',
+        preview: 'Test chatroom only for testing',
+        image: '/images/aws.jpg',
+        status: 'none',
+        onlineCount: 0
+      },
+      {
+        id: 'test_chatroom_8',
+        name: 'Test Chatroom 8',
+        preview: 'Test chatroom only for testing',
+        image: '/images/aws.jpg',
+        status: 'none',
+        onlineCount: 0
+      },
+      {
+        id: 'test_chatroom_9',
+        name: 'Test Chatroom 9',
+        preview: 'Test chatroom only for testing',
+        image: '/images/aws.jpg',
+        status: 'none',
+        onlineCount: 0
+      },
     ]);
   });
 
